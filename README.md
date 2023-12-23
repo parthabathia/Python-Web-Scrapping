@@ -31,4 +31,4 @@ Here's a breakdown of the code:
     
     - Writes the DataFrame to a CSV file named 'clinic_data.csv' without including the index column.
 
-Note: Web scraping may be subject to the terms of service of the website being scraped. It's essential to review and comply with the website's terms of use to ensure ethical and legal data collection. Additionally, web scraping might be against the terms of service of some websites, so it's important to obtain permission if required.
+Note: Web scraping may be subject to the terms of service of the website being scraped. It's essential to review and comply with the website's terms of use to ensure ethical and legal data collection. Additionally, web scraping might be against the terms of service of some websites, so it is important to obtain permission if required.
