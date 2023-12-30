@@ -1,3 +1,5 @@
+# Python Web Scrapping
+
 The provided Python code is a web scraping script designed to collect information about medical clinics from a range of clinic IDs on the Athenahealth portal. The script utilizes the requests library to send HTTP requests and retrieve the HTML content of the clinic web pages. It then uses BeautifulSoup for parsing the HTML and extracting relevant information.
 
 Here's a breakdown of the code:
